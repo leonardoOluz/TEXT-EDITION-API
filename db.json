@@ -1,0 +1,181 @@
+{
+    "linguagen": [
+        {
+            "id": "95d48c01-d6b1-4e4e-8538-f818cf255211",
+            "linguagem": "",
+            "texto": "selecione a linguagem"
+        },
+        {
+            "id": "805c2329-94e3-4649-9468-7f5f16ba63c4",
+            "linguagem": "javascript",
+            "texto": "JavaScript"
+        },
+        {
+            "id": "d0c572d7-6200-4952-8762-6678ea0646b0",
+            "linguagem": "html",
+            "texto": "HTML-5"
+        },
+        {
+            "id": "65ef502e-cd02-46ea-a465-245c2a4a915d",
+            "linguagem": "css",
+            "texto": "CSS3"
+        },
+        {
+            "id": "0951f29f-e902-4e9b-ad30-39034b044604",
+            "linguagem": "typescript",
+            "texto": "TypeScript"
+        },
+        {
+            "id": "5d9a8ec0-2d86-4ff2-ae0e-767e2db9cd06",
+            "linguagem": "less",
+            "texto": "LESS"
+        },
+        {
+            "id": "822ce57e-7c91-4f4f-a023-45a245bd9961",
+            "linguagem": "json",
+            "texto": "JSON"
+        },
+        {
+            "id": "d578f510-9b81-404d-b67b-29fd47b7738b",
+            "linguagem": "xml",
+            "texto": "XML"
+        },
+        {
+            "id": "060c743e-8fa3-4852-8a76-e686cc6b7891",
+            "linguagem": "php",
+            "texto": "PHP"
+        },
+        {
+            "id": "0d5a012a-734f-4d96-a711-ef0333e54a7f",
+            "linguagem": "c#",
+            "texto": "C#"
+        },
+        {
+            "id": "481b1c19-bc65-4b35-ad1e-f40da33c68e2",
+            "linguagem": "c++",
+            "texto": "C++"
+        },
+        {
+            "id": "3905c5b4-2126-496e-ad4c-744a62948fee",
+            "linguagem": "java",
+            "texto": "Java"
+        },
+        {
+            "id": "53c77689-f55e-4a69-8dee-fd7e4d429f74",
+            "linguagem": "python",
+            "texto": "Python"
+        }
+    ],
+    "usuario": [
+        {
+            "id": "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b",
+            "nome": "Leonardo Luz",
+            "apelido": "@Leo",
+            "foto": "LeoLuz",
+            "email": "leo@email.com",
+            "senha": "LeoLuz123@",
+            "sal": "d6089ce4fe91c59e15b01d75835a496e",
+            "hash": "7c9c8f1b9d973cef21bbae324c065da6f71ad1663b2f18c74630a56c472522339ac627c8284f3afd54ad9aa548c978d4eab6867bf648a356441d9973b2b056fc"
+        },
+        {
+            "id": "62589d9c-44a1-4ef8-8eab-1eca61c3aff1",
+            "nome": "Lucca Luz",
+            "apelido": "@Luuca",
+            "foto": "LuccaLuz",
+            "email": "lucca@email.com",
+            "senha": "LuccaLuz@123",
+            "sal": "46fa3ed685dc321101be29f3e44705af",
+            "hash": "6e79417c70cab28dce07fbfbae96b09095e0ef8ef0e4285849d637403514be81dd6ab66a295e94cfc784c4f8df3775fa945a9975316b559c106e7c33027c5d29"
+        },
+        {
+            "id": "894a30b9-64c1-4bbc-96ab-38c3be4116d2",
+            "nome": "Ana Lima",
+            "apelido": "@Aninha",
+            "foto": "AnaLima",
+            "email": "ana@email.com",
+            "senha": "AnaLima@123",
+            "sal": "07aefe184185c3f1efb1fc7c4fad6bce",
+            "hash": "e75cc6ec8a6cf154e98c774da4b75358ec1e3320c0de1530725e194de07ed56c4423cde34db38eda621989cbf2cd103c3a03e10cf2d7eb0dc8f616d052538d27"
+        }
+    ],
+    "postagem": [
+        {
+            "id": "f3533376-de9a-42a9-8258-ce3bfd2a6ec8",
+            "id_usuario": "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b",
+            "titulo": "Codigo HTML",
+            "descricao": "Tag HTML cabeçalho",
+            "linguagem": "html",
+            "codigo": "<html><header></header></html>",
+            "cor": "#FFBD2E",
+            "curtidas_id_usuario:": [
+                "62589d9c-44a1-4ef8-8eab-1eca61c3aff1"
+            ],
+            "mensagem": [
+                "d57509f0-4d94-4942-8f3e-02bccbc984d6"
+            ]
+        },
+        {
+            "id": "734cb939-ef4e-4bd4-aaa9-105daeb97046",
+            "id_usuario": "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b",
+            "titulo": "Codigo HTML",
+            "descricao": "Tag HTML cabeçalho",
+            "linguagem": "html",
+            "codigo": "<html><header></header></html>",
+            "cor": "#26C934",
+            "curtidas_id_usuario:": [
+                "62589d9c-44a1-4ef8-8eab-1eca61c3aff1"
+            ],
+            "mensagem": [
+                "f442b41d-96e0-4395-9cc0-4977ad81e06c"
+            ]
+        },
+        {
+            "id": "5c0914ab-abde-44b3-9a63-3bd5ffe1e133",
+            "id_usuario": "62589d9c-44a1-4ef8-8eab-1eca61c3aff1",
+            "titulo": "Usando Css no Body",
+            "descricao": "Css com backgroud font-size ",
+            "linguagem": "css",
+            "codigo": "body { background: #FFBD2E; font-size: 16px; } ",
+            "cor": "#FFFFFF",
+            "curtidas_id_usuario:": [
+                "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b"
+            ],
+            "mensagem": [
+                "d2028d88-d542-4d88-91f2-d663915ef9bb"
+            ]
+        },
+        {
+            "id": "d9beb0e6-52c9-4e25-a0cf-9df6eaa6f1a7",
+            "id_usuario": "62589d9c-44a1-4ef8-8eab-1eca61c3aff1",
+            "titulo": "Codigo JavaScript",
+            "descricao": "Função que recebe dois argumentos e retorno o valor multiplicado",
+            "linguagem": "javascript",
+            "codigo": "function multiplicar(x, y){ return x * y }",
+            "cor": "#FFBD2E",
+            "curtidas_id_usuario:": [
+                "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b"
+            ],
+            "mensagem": []
+        }
+    ],
+    "mensagens": [
+        {
+            "id": "d57509f0-4d94-4942-8f3e-02bccbc984d6",
+            "id_postagem": "f3533376-de9a-42a9-8258-ce3bfd2a6ec8",
+            "id_usuario": "62589d9c-44a1-4ef8-8eab-1eca61c3aff1",
+            "texto": "Codigo bacana! facilita a multiplicação"
+        },
+        {
+            "id": "f442b41d-96e0-4395-9cc0-4977ad81e06c",
+            "id_postagem": "734cb939-ef4e-4bd4-aaa9-105daeb97046",
+            "id_usuario": "62589d9c-44a1-4ef8-8eab-1eca61c3aff1",
+            "texto": "Codigo bacana! facilita a multiplicação"
+        },
+        {
+            "id": "d2028d88-d542-4d88-91f2-d663915ef9bb",
+            "id_postagem": "5c0914ab-abde-44b3-9a63-3bd5ffe1e133",
+            "id_usuario": "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b",
+            "texto": "Codigo bacana! facilita a multiplicação"
+        }
+    ]
+}
