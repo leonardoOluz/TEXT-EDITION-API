@@ -107,7 +107,7 @@
             "linguagem": "html",
             "codigo": "<html><header></header></html>",
             "cor": "#FFBD2E",
-            "curtidas_id_usuario:": [
+            "curtidas_id_usuario": [
                 "62589d9c-44a1-4ef8-8eab-1eca61c3aff1"
             ],
             "mensagem": [
@@ -122,7 +122,7 @@
             "linguagem": "html",
             "codigo": "<html><header></header></html>",
             "cor": "#26C934",
-            "curtidas_id_usuario:": [
+            "curtidas_id_usuario": [
                 "62589d9c-44a1-4ef8-8eab-1eca61c3aff1"
             ],
             "mensagem": [
@@ -137,7 +137,7 @@
             "linguagem": "css",
             "codigo": "body { background: #FFBD2E; font-size: 16px; } ",
             "cor": "#FFFFFF",
-            "curtidas_id_usuario:": [
+            "curtidas_id_usuario": [
                 "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b"
             ],
             "mensagem": [
@@ -152,7 +152,7 @@
             "linguagem": "javascript",
             "codigo": "function multiplicar(x, y){ return x * y }",
             "cor": "#FFBD2E",
-            "curtidas_id_usuario:": [
+            "curtidas_id_usuario": [
                 "cffc4a6c-e396-4f9d-8e3d-aa9e44643d5b"
             ],
             "mensagem": []
